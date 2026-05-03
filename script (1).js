@@ -41,7 +41,6 @@ initTheme();
 // ---------- Typing Animation ----------
 const roles = [
   "Full‑Stack Developer",
-  "MERN Expert",
   "Python & Java Dev",
   "Problem Solver",
 ];
